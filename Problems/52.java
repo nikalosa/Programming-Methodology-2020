@@ -1,11 +1,3 @@
-
-/*
- * File: FindRange.java
- * --------------------
- * This program is a stub for the FindRange problem, which finds the
- * smallest and largest values in a list of integers.
- */
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;

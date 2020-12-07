@@ -1,11 +1,3 @@
-
-/*
- * File: GraphicsHierarchy.java
- * ----------------------------
- * This program is a stub for the GraphicsHierarchy problem, which
- * draws a partial diagram of the acm.graphics hierarchy.
- */
-
 import acm.graphics.*;
 import acm.program.*;
 import acm.util.RandomGenerator;
